@@ -1,3 +1,1 @@
-## Step title
-
-+ Step content...
+## Pawns and Rooks
