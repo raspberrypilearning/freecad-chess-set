@@ -27,50 +27,26 @@ The length of the sides of the cube need to be increased. You can use [Pythagora
 
 The sum of the square of the length of the two blue lines is equal to the square of the lenght of the red line.
 
-<html>
-<math>
-    <mrow>
-      <mrow>
-        <msup>
-          <mi>a</mi>
-          <mn>2</mn>
-        </msup>
-        <mo>+</mo>
-        <msup>
-          <mi>b</mi>
-          <mn>2</mn>
-        </msup>
-      </mrow>
-      <mo>=</mo>
-      <msup>
-        <mi>c</mi>
-        <mn>2</mn>
-      </msup>
-    </mrow>
-  </math>
-</html>
+![pythag_1](images/pythag_1.gif)
 
 or
 
-<html>
-<math>
-    <mrow>
-      <mrow>
-        <msup>
-          <mi>a</mi>
-          <mn>2</mn>
-        </msup>
-        <mo>+</mo>
-        <msup>
-          <mi>b</mi>
-          <mn>2</mn>
-        </msup>
-      </mrow>
-      <mo>=</mo>
-      <msup>
-        <mi>c</mi>
-        <mn>2</mn>
-      </msup>
-    </mrow>
-  </math>
-</html>
+![pythag_2](images/pythag_2.gif)
+
+As you know the lenght of the blue lines are half the width of the cube, you can do the following calculation.
+
+![pythag_3](images/pythag_3.gif)
+
+Which gives a length for the red line of just over `10.6mm`
+
+--- task ---
+Edit the cubes length, width and height, so that they are all 10.6mm
+
+![king_head_size.png](images/king_head_size.png)
+
+![kings_head_resize.png](images/kings_head_resize.png)
+
+![king_complete.png](images/king_complete.png)
+--- /task ---
+
+
