@@ -1,19 +1,15 @@
 ## Introduction
 
-Add project description here. What will learners be making?
+In this advanced CAD project, you will create a travel chess set, in the [Bauhaus](https://en.wikipedia.org/wiki/Bauhaus) style
 
 ### What you will make
 
 --- no-print ---
-Add instructions for using the embedded content here.
-
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
+![filler](https://cdn.thingiverse.com/renders/e9/dc/e5/d4/37/PIECES_preview_featured.jpg)
 --- /no-print ---
 
 --- print-only ---
-![Complete project](images/showcase_static.png)
+![filler](https://cdn.thingiverse.com/renders/e9/dc/e5/d4/37/PIECES_preview_featured.jpg)
 --- /print-only ---
 
 --- collapse ---
@@ -22,17 +18,11 @@ title: What you will need
 ---
 ### Hardware
 
-+ Describe hardware here
++ A computer capable of running FreeCAD
 
 ### Software
 
-+ Scratch 2.0 (either [online](http://rpf.io/scratchon) or [offline](http://rpf.io/scratchoff))
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
-
-### Downloads
-
-+ [rpf.io/project-name-go](http://rpf.io/project-name-go){:target="_blank"}
++ [FreeCAD](https://www.freecadweb.org/){:target="_blank"}
 
 --- /collapse ---
 
@@ -41,8 +31,8 @@ title: What you will need
 title: What you will learn
 ---
 
-+ Two or three learning objectives
-+ ...should go here
++ How to create a base and sliding lid for a chess set
++ How to use Parts and Parts design to create the six different styles of chess pieces
 
 --- /collapse ---
 
