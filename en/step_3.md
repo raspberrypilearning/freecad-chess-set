@@ -49,4 +49,11 @@ Edit the cubes length, width and height, so that they are all 10.6mm
 ![king_complete.png](images/king_complete.png)
 --- /task ---
 
+--- task ---
+To finish off, you need to turn the king into a single object.
+
+Select both cubes in the **Model** tab and then click on the **Make a union of several shapes** icon.
+
+[Part_Fuse](images/Part_Fuse.png)
+--- /task ---
 
