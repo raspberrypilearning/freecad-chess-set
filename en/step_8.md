@@ -39,6 +39,11 @@ You can check that the scale has been maintained by using the **File** menu to c
 Press **Shift** + **Ctrl** + **F** with your sketch selected to alter the Fill and Stroke panel.
 
 Different laser cutters require different settings, but most will cut with a stroke width of `0.1`mm and a stroke colour that is `255 Red`.
+
+![stroke_width](images/stroke_width.png)
+
+![stroke_colour](images/stroke_colour.png)
+
 --- /task ---
 
 This file should now be ready to send to the laser cutter. You need to cut each of the sketches twice.

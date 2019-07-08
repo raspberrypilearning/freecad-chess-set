@@ -54,6 +54,6 @@ To finish off, you need to turn the king into a single object.
 
 Select both cubes in the **Model** tab and then click on the **Make a union of several shapes** icon.
 
-[Part_Fuse](images/Part_Fuse.png)
+![Part_Fuse](images/Part_Fuse.png)
 --- /task ---
 

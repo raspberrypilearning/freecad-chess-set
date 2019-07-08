@@ -19,7 +19,7 @@ Click on the icon to **Create a new body and make it active** and then on **Crea
 --- task ---
 You will be prompted to select a plane, onto which your new sketch will be mapped, so select the `XY_Plane` and click `OK`.
 
-![plane_select](imagesplane_select.png)
+![plane_select](images/plane_select.png)
 --- /task ---
 
 You will notice that your workbench changes to the **Sketcher** workbench.
@@ -46,7 +46,7 @@ Most of these constraints are to do with the nature of a square. Opposite sides 
 
 You can also see in the **Tasks** tab that your square has *2 degrees of freedom*
 
-![degrees_freedom](degrees_freedom.png)
+![degrees_freedom](images/degrees_freedom.png)
 
 This means that you need two additional constraints to fully define the square.
 
@@ -70,7 +70,7 @@ Click on an vertical edge and this time use the **Fix the vertical distance betw
 
 You should see that your square has turned green and the the **Tasks** tab there will be a message saying that the sketch is fully constrained.
 
-![fully_constrained_square](fully_constrained_square.png)
+![fully_constrained_square](images/fully_constrained_square.png)
 
 --- task ---
 To turn this square into a construction geometry, select each of the edges and click on the **Toggle construction geometry** icon.
@@ -85,7 +85,7 @@ The square should turn blue.
 --- task ---
 Use the **Create a line in a sketch** tool, to create four diagonal lines within the square. Make sure you're lines are constrained to the construction geometry.
 
-![Sketcher_CreateLine](image/Sketcher_CreateLine.png)
+![Sketcher_CreateLine](images/Sketcher_CreateLine.png)
 
 You can ensure the ends of the lines are constrained by hovering over the construction geometry so that the lines turn yellow.
 
