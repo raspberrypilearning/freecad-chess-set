@@ -25,7 +25,7 @@ If you look at the king from the top-down view, you'll notice that the corners o
 
 The length of the sides of the cube need to be increased. You can use [Pythagoras' theorem](https://en.wikipedia.org/wiki/Pythagorean_theorem) to calculate the required dimensions of the cube.
 
-The sum of the square of the length of the two blue lines is equal to the square of the lenght of the red line.
+The sum of the square of the length of the two blue lines is equal to the square of the length of the red line.
 
 ![pythag_1](images/pythag_1.gif)
 
@@ -33,7 +33,7 @@ or
 
 ![pythag_2](images/pythag_2.gif)
 
-As you know the lenght of the blue lines are half the width of the cube, you can do the following calculation.
+As you know the length of the blue lines are half the width of the cube, you can do the following calculation.
 
 ![pythag_3](images/pythag_3.gif)
 

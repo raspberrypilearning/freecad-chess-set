@@ -23,7 +23,7 @@ title: What you will need
 ### Software
 
 + [FreeCAD](https://www.freecadweb.org/){:target="_blank"}
-
++ [Inkscape if laser cutting the board](https://inkscape.org/){:target="_blank"}
 --- /collapse ---
 
 --- collapse ---

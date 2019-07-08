@@ -24,7 +24,7 @@ You will be prompted to select a plane, onto which your new sketch will be mappe
 
 You will notice that your workbench changes to the **Sketcher** workbench.
 
-You'll start by making what is called a **Construction Geometry**. Think of these as guide lines, to help you draw an acurate sketch.
+You'll start by making what is called a **Construction Geometry**. Think of these as guide lines, to help you draw an accurate sketch.
 
 --- task ---
 Start by using the **Create a square by it's center and by one corner**. You'll want to centre your cursor over the centre of the XY_Plane, so that the red dot in the middle turns yellow.
@@ -42,7 +42,7 @@ You'll notice that in the **Tasks** tab that the square already has some constra
 
 ![constraints](images/constraints.png)
 
-Most of these constraints are to do with the nature of a square. Opposite sides must be parrallel and all sides must have the same length, for instance. One constraint you added yourself, byt ensuring the square was in the centre of the plane.
+Most of these constraints are to do with the nature of a square. Opposite sides must be parallel and all sides must have the same length, for instance. One constraint you added yourself, by ensuring the square was in the centre of the plane.
 
 You can also see in the **Tasks** tab that your square has *2 degrees of freedom*
 
@@ -73,7 +73,7 @@ You should see that your square has turned green and the the **Tasks** tab there
 ![fully_constrained_square](fully_constrained_square.png)
 
 --- task ---
-To turn this square into a construction geometry, select each of the edges and click on the **Toggle constuction geometery** icon.
+To turn this square into a construction geometry, select each of the edges and click on the **Toggle construction geometry** icon.
 
 ![Sketcher_AlterConstruction](images/Sketcher_AlterConstruction.png)
 --- /task ---
@@ -87,12 +87,12 @@ Use the **Create a line in a sketch** tool, to create four diagonal lines within
 
 ![Sketcher_CreateLine](image/Sketcher_CreateLine.png)
 
-You can ensure the ends of the lines are constrained by hovering over the construction gemoetry so that the lines turn yellow.
+You can ensure the ends of the lines are constrained by hovering over the construction geometry so that the lines turn yellow.
 
 ![diagonal_lines](images/diagonal_lines.png)
 --- /task ---
 
-Sometimes adding lines can add unneccesary constraints to the sketch. To avoid this you can draw lines anywhere in the sketch and then constrain them afterwards.
+Sometimes adding lines can add unnecessary constraints to the sketch. To avoid this you can draw lines anywhere in the sketch and then constrain them afterwards.
 
 --- task ---
 Draw a small line, anywhere in the sketch, so it's not constrained.
@@ -101,7 +101,7 @@ Draw a small line, anywhere in the sketch, so it's not constrained.
 --- /task ---
 
 --- task ---
-Use the **Create a coincident constraint** tool to constrain the end points of the line, so that it joins to corner of the constuction geometry with the end point of the diagonal line.
+Use the **Create a coincident constraint** tool to constrain the end points of the line, so that it joins to corner of the construction geometry with the end point of the diagonal line.
 
 ![Constraint_PointOnPoint](images/Constraint_PointOnPoint.png)
 
