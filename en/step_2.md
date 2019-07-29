@@ -16,7 +16,7 @@ Use the workbench menu to select **Part**
 
 --- task ---
 Use the *Create a cube solid* icon to place a cube into your project
-![Part_Box.png](images/Part_Box.png])
+![Part_Box.png](images/Part_Box.png)
 ![create_cube](images/create_cube.png)
 --- /task ---
 
