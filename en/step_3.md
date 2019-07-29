@@ -8,7 +8,7 @@ Open up your `rook.FCStd` file, and save it again as `king.FCStd`
 
 --- task ---
 Use the *Create a cube solid* icon to place an additional cube into your project
-![Part_Box.png](images/Part_Box.png]) 
+![Part_Box.png](images/Part_Box.png) 
 --- /task ---
 
 This new cube will be the king's *head*, so it needs to be placed on top of the base.
@@ -18,7 +18,7 @@ Click on the new cube in the **Model** tab and then in the **Property** tab chan
 
 Then change the position of the cube so that it has an `x` position of `7.5mm` and a `z` position of `15mm`
 
-![kings_head_position](images/kings_head_position.png)
+![kings_head_position](images/king_head_position.png)
 --- /task ---
 
 If you look at the king from the top-down view, you'll notice that the corners of the head do not line up with the edges of the base.
