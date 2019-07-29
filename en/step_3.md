@@ -23,7 +23,7 @@ Then change the position of the cube so that it has an `x` position of `7.5mm` a
 
 If you look at the king from the top-down view, you'll notice that the corners of the head do not line up with the edges of the base.
 
-The length of the sides of the cube need to be increased. You can use [Pythagoras' theorem](https://en.wikipedia.org/wiki/Pythagorean_theorem) to calculate the required dimensions of the cube.
+The length of the sides of the cube need to be increased. You can use [Pythagoras' theorem](https://en.wikipedia.org/wiki/Pythagorean_theorem){:target="_blank"} to calculate the required dimensions of the cube.
 
 The sum of the square of the length of the two blue lines is equal to the square of the length of the red line.
 
