@@ -27,7 +27,11 @@ You will notice that your workbench changes to the **Sketcher** workbench.
 You'll start by making what is called a **Construction Geometry**. Think of these as guide lines, to help you draw an accurate sketch.
 
 --- task ---
-Start by using the **Create a square by it's center and by one corner**. You'll want to centre your cursor over the centre of the XY_Plane, so that the red dot in the middle turns yellow.
+Start by using the **Create a square by it's center and by one corner**.
+
+![create_square](images/create_square.png)
+
+You'll want to centre your cursor over the centre of the XY_Plane, so that the red dot in the middle turns yellow.
 
 ![yellow_dot.png](images/yellow_dot.png)
 
