@@ -6,7 +6,7 @@ Now that you have produced all of your chess pieces, it is time to make the boar
 Create a new project and switch to the **Part Design** workbench. Create a new body and then a sketch.
 --- /task ---
 
-The board will be constructed from a base, a top and four sides. The base and top are identical. Opposite pairs of sides are also identical. They will use [finger joints](https://en.wikipedia.org/wiki/Finger_joint) to connect to each other.
+The board will be constructed from a base, a top and four sides. The base and top are identical. Opposite pairs of sides are also identical. They will use [finger joints](https://en.wikipedia.org/wiki/Finger_joint){:target="_blank"} to connect to each other.
 
 Instructions will be provided for creating the base/top and then sketches of the sides will be shown, for you to create your own, independently.
 
