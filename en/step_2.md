@@ -21,7 +21,7 @@ Use the *Create a cube solid* icon to place a cube into your project
 --- /task ---
 
 --- task ---
-The default size of cube is 10mm x 10mm x 10mm, which is fine for the pawns. Same your file as `pawn.FCStd`.
+The default size of cube is 10mm x 10mm x 10mm, which is fine for the pawns. Save your file as `pawn.FCStd`.
 --- /task ---
 
 --- task ---
