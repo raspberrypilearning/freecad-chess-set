@@ -14,9 +14,9 @@ Click on the **Create a cube solid** icon to place an additional cube into your 
 This new cube will be the king's head, so next, you will place it on top of the base.
 
 --- task ---
-Click on the new cube in the **Model** tab. In the **Property** tab, change the `angle` to `45°`.
+Click on the new cube in the **Model** tab. In the **Property** tab, change the **Angle** to `45°`.
 
-Then, change the position of the cube so that it has an `x` position of `7.5mm` and a `z` position of `15mm`.
+Then, change the **Position** of the cube so that it has an **x** position of `7.5mm` and a **z** position of `15mm`.
 
 ![kings_head_position](images/king_head_position.png)
 --- /task ---
@@ -40,7 +40,7 @@ You know that the length of the blue lines is half the width of the cube, so you
 This gives a length for the red line of just over 10.6mm.
 
 --- task ---
-Change the cube's length, width, and height to `10.6mm`.
+Change the cube's **Length**, **Width**, and **Height** to `10.6mm`.
 
 ![king_head_size.png](images/king_head_size.png)
 
