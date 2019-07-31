@@ -119,7 +119,7 @@ Repeat this another seven times to create a sketch that looks like a pointed cro
 --- /task ---
 
 --- task ---
-Select each of the eight lines that you have just drawn, and create **equality constraints** between them.
+Select each of the eight lines that you have just drawn, and create **Equality constraints** between them.
 
 ![Constraint_EqualLength](images/Constraint_EqualLength.png)
 --- /task ---
@@ -149,7 +149,7 @@ Click on **Close** in the **Tasks** tab. This will take you back to the **Part D
 --- /task ---
 
 --- task ---
-Make sure that your sketch selected, then use the **Pad** tool to turn the sketch into a 3D object and set the height to `15mm`.
+Make sure that your sketch is selected, then use the **Pad** tool to turn the sketch into a 3D object and set the height to `15mm`.
 
 ![PartDesign_Pad](images/PartDesign_Pad.png)
 
