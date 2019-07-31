@@ -3,7 +3,7 @@
 It is not much more difficult to make the king than to make the rook.
 
 --- task ---
-Open your `rook.FCStd` file, and save it again as `king.FCStd`.
+Open your `rook.FCStd` file, then save it again as `king.FCStd`.
 --- /task ---
 
 --- task ---
