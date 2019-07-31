@@ -1,6 +1,6 @@
 ## Introduction
 
-In this advanced CAD project, you will create a travel chess set, in the [Bauhaus](https://en.wikipedia.org/wiki/Bauhaus) style
+In this advanced CAD project, you will create a travel chess set in the [Bauhaus](https://en.wikipedia.org/wiki/Bauhaus) style.
 
 ### What you will make
 
@@ -23,7 +23,7 @@ title: What you will need
 ### Software
 
 + [FreeCAD](https://www.freecadweb.org/){:target="_blank"}
-+ [Inkscape if laser cutting the board](https://inkscape.org/){:target="_blank"}
++ [Inkscape](https://inkscape.org/){:target="_blank"}, if you are laser cutting the board
 --- /collapse ---
 
 --- collapse ---
