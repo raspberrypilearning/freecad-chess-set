@@ -8,10 +8,10 @@ Create a new project, then go to the **Part Design** workbench. Create a new bod
 
 The board will be made of a base, a top, and four sides. The base and top are identical. Opposite sides are also identical. They will use [finger joints](https://en.wikipedia.org/wiki/Finger_joint){:target="_blank"} to connect to each other.
 
-The instructions below will explain how to create the base/top. Then, you can use sketches of the sides to help you to create your own independently.
+The instructions below will explain how to create the base/top. Then, you can use sketches of the sides to help you to create the sides independently.
 
 --- task ---
-Create a corner rectangle. Put one corner of the rectangle in the centre of the XY Plane to begin with.
+Create a corner rectangle. Put one corner of the rectangle in the centre of the XY_Plane to begin with.
 
 ![corner_rectangle](images/corner_rectangle.png)
 --- /task ---
@@ -23,13 +23,13 @@ Give the rectangle horizontal and vertical dimensions of `180mm`. This will make
 --- /task ---
 
 --- task ---
-Now add four small rectangles along each side of the square. 
+Now, add four small rectangles along each side of the square. 
 
 ![tabbed_square](images/tabbed_square.png)
 --- /task ---
 
 --- task ---
-Use <kbd>Shift</kbd> and click to select one long edge of each of the rectangles, and then add an **Equality constraint** so that they are all the same length.
+Use <kbd>Shift</kbd> + click to select one long edge of each of the rectangles, and then add an **Equality constraint** so that they are all the same length.
 
 ![Constraint_EqualLength](images/Constraint_EqualLength.png)
 
@@ -64,7 +64,7 @@ Repeat this for every rectangle.
 --- /task ---
 
 --- task ---
-**Trim** each of the finger joints to remove the lines between the points of the rectangles.
+**Trim** each of the finger joints to remove the lines between the points of the rectangles, where the rectangles join the square.
 
 ![Sketcher_Trimming](images/Sketcher_Trimming.png)
 
