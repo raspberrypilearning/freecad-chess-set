@@ -23,9 +23,9 @@ Then, change the **Position** of the cube so that it has an **x** position of `7
 
 If you look at the king from the top-down view, you will notice that the corners of the head do not line up with the edges of the base.
 
-The sides of the cube need to be made longer. You can use [Pythagoras' theorem](https://en.wikipedia.org/wiki/Pythagorean_theorem){:target="_blank"} to work out what the dimensions of the cube should be:
+You need to make the sides of the cube longer. You can use [Pythagoras' theorem](https://en.wikipedia.org/wiki/Pythagorean_theorem){:target="_blank"} to work out what the dimensions of the cube should be.
 
-The sum of the square of the length of the two blue lines is equal to the square of the length of the red line.
+The sum of the square of the length of the two blue lines is equal to the square of the length of the red line:
 
 ![pythag_1](images/pythag_1.gif)
 
@@ -37,7 +37,7 @@ You know that the length of the blue lines is half the width of the cube, so you
 
 ![pythag_3](images/pythag_3.gif)
 
-This gives a length for the red line of just over 10.6mm.
+According to the calculation, the red line should be just over 10.6mm long.
 
 --- task ---
 Change the cube's **Length**, **Width**, and **Height** to `10.6mm`.
