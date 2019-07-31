@@ -32,7 +32,7 @@ title: What you will learn
 ---
 
 + How to create a base and sliding lid for a chess set
-+ How to use Parts and Parts design to create the six different styles of chess pieces
++ How to use **Parts** and **Parts Design** in FreeCAD to create the six different styles of chess pieces
 
 --- /collapse ---
 
@@ -43,6 +43,6 @@ title: Additional information for educators
 
 If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/project-name/print){:target="_blank"}.
 
-[Here is a link to the resources for this project](http://rpf.io/project-name-go).
+You can [find the resources for this project here](http://rpf.io/project-name-go).
 
 --- /collapse ---
