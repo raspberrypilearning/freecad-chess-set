@@ -2,8 +2,8 @@ title: Create a travel chess set
 hero_image: images/banner.png
 description: "Design and 3D print or laser cut a travel chess set"
 version: 4
-listed: false
-copyedit: false
+listed: true
+copyedit: true
 last_tested: "2019-05-10"
 steps:
   - title: Introduction
