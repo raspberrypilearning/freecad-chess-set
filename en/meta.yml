@@ -1,18 +1,20 @@
+---
 title: Create a travel chess set with FreeCAD
 hero_image: images/banner.png
-description: "Design and 3D print or laser cut a travel chess set"
+description: Design and 3D print or laser cut a travel chess set
 version: 4
 listed: true
 copyedit: true
-last_tested: "2019-05-10"
+last_tested: '2019-05-10'
 steps:
-  - title: Introduction
-  - title: Make the pawns and rooks
-  - title: Make the king
-  - title: Make the queen
-  - title: Make the knights
-  - title: Make the bishops
-  - title: Make the board
-  - title: Manufacture the board
-  - title: "What next?"
-
+- title: Introduction
+  completion: engaged
+- title: Make the pawns and rooks
+- title: Make the king
+- title: Make the queen
+- title: Make the knights
+- title: Make the bishops
+- title: Make the board
+  completion: internal
+- title: Manufacture the board
+- title: What next?
