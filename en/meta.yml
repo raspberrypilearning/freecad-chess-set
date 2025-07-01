@@ -19,6 +19,5 @@ steps:
 - title: Manufacture the board
   completion:
   - internal
-- title: What next?
   completion:
   - external
