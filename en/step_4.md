@@ -14,12 +14,13 @@ Now, click on the **Create a sphere solid** icon to add a sphere to your project
 Now, you need to place the sphere on top of the cube base.
 Change the **Position** of the sphere so that it has an **x** position of `7.5mm`, a **y** position of `7.5mm`, and a **z** position of `21.5mm`. Then, change the **Radius** of the sphere so that it is also `7.5mm`.
 
---- hints --- --- hint ---
-To change these properties, click on the sphere in the **Model** tab, then edit the values in the **Property** tab.
---- /hint --- --- hint ---
+--- hints ---
+--- hint ---
 This is what the properties of the sphere should look like:
 ![sphere_properties.png](images/sphere_properties.png)
---- /hint --- --- /hints ---
+--- /hint ---
+--- /hints ---
+
 --- /task ---
 
 --- task ---
